@@ -1,0 +1,2 @@
+# Yelp-Review-Sentiment-Classification-with-SpaCy-Na-ve-Bayes-SVM-Logistic-Regression
+Yelp Review Sentiment Classification  This project focuses on classifying Yelp reviews as either positive or negative based on their textual content. Using natural language processing (NLP) techniques and machine learning models, the goal is to develop an accurate and interpretable sentiment classification pipeline.
